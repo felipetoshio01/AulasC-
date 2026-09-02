@@ -3,10 +3,10 @@
 
 int main() {
     
-    //std = standard
-    //cout = character output
-    //<< = output
-    //'\n' = line break
+    // std = standard
+    // cout = character output
+    // << = output
+    // '\n' = line break
     std::cout << "Olá mundo!" << '\n';
     std::cout << "Este é meu primeiro programa C++!";
 

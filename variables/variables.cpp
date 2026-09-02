@@ -14,22 +14,22 @@ int main() {
     */
 
     // ===== Tipos primitivos =====
-    //int = inteiros
+    // int = inteiros
     int age = 17;
 
-    //double = decimais
+    // double = decimais
     double money = 19.99;
 
-    //char = caracteres únicos; somente com aspas simples
+    // char = caracteres únicos; somente com aspas simples
     char level = 'A';
 
-    //std::string = vários caracteres; somente com aspas duplas
+    // std::string = vários caracteres; somente com aspas duplas
     std::string name = "Carlinhos Pauleira";
 
-    //bool = true ou false
+    // bool = true ou false
     bool employed = true;
 
-    //const = contantes
+    // const = contantes
     const double PI = 3.14159;
     
     std::cout << "Nome: " << name << '\n';

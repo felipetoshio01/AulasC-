@@ -1,6 +1,6 @@
 #include <iostream>
 
-//namespace serve para evitar conflitos de variáveis
+// namespace serve para evitar conflitos de variáveis
 
 namespace user1 {
     std::string password = "12345";
@@ -10,7 +10,7 @@ namespace user2 {
     std::string password = "BananaSauro";
 }
 
-//:: = delimitador de escopo da variável
+// :: = delimitador de escopo da variável
 
 // using namespace <nome-namespace>
 // -> Diz que todas as variáveis não delimitadas usaram essa namespace
