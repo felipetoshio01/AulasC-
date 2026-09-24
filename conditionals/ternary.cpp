@@ -1,6 +1,11 @@
 #include <iostream>
 
-// condição ? expressão 1 (true) : expressão 2 (false)
+/*  
+============================================================
+    Sintaxe: 
+    condição ? expressão 1 (true) : expressão 2 (false)
+============================================================
+*/
 
 int main() {
 

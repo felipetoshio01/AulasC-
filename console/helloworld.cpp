@@ -1,12 +1,18 @@
 // Inclui acesso à operações básicas
 #include <iostream>
 
+/*
+===================================
+    Tradução:
+    std = standard
+    std::cout = character output
+    << = insert
+    '\n' = line break
+===================================
+*/
+
 int main() {
-    
-    // std = standard
-    // cout = character output
-    // << = output
-    // '\n' = line break
+
     std::cout << "Olá mundo!" << '\n';
     std::cout << "Este é meu primeiro programa C++!";
 

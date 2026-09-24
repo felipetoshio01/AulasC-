@@ -1,15 +1,20 @@
 #include <iostream>
 
-// std::cin = character input
-// -> Obtém um input do usuário. O tipo é corretamente ajustado para o tipo da variável desejada
-// -> o cin considera espaços em branco e tabulações (\n) como separadores. Logo, eles cortam o input
+/*
+===========================================================================
+    Tradução:
+    >> = extrator
 
-// std::getline(input, variable)
-// -> Obtém uma linha completa, considerando espaços
-// -> Usar ele após o cin, faz ele ler a quebra de linha (\n) imediatamente, pulando-o completamente. Para evitar isso, retire os espaços em branco (white spaces) com >> std::ws
+    ---- std::cin = character input ----
+    -> Obtém um input do usuário. O tipo é corretamente ajustado para o tipo da variável desejada
+    -> o cin considera espaços em branco e tabulações (\n) como separadores. Logo, eles cortam o input
 
-// >> = extrator
-// -> Retira uma informação de algo
+    ---- std::getline(input, variable) ----
+    -> Obtém uma linha completa, considerando espaços
+    -> Usar ele após o cin, faz ele ler a quebra de linha (\n) imediatamente, pulando-o completamente. Para evitar isso, retire os espaços em branco (white spaces) com >> std::ws
+
+===========================================================================
+*/
 
 int main() {
 

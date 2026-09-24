@@ -1,5 +1,19 @@
 #include <iostream>
 
+/*
+==================================
+    Sintaxe:
+    if (condition1) {
+        // code
+
+    } else if (condition2) {
+        // code
+
+    } else {
+        // code
+    }
+==================================
+*/
 int main() {
 
     int age;
